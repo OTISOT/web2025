@@ -12,7 +12,7 @@ body {
 	margin: 0 auto;
 	width: 800px;
 	padding: 0;
-	background: #6e0427 url('../images/body_bg.gif') repeat-x top;
+	background-image: linear-gradient(to border-bottom, #0d54be77, #1958ce);			
 	font-family: Helvetica, sans-serif;
 	font-size: 62.5%;
 	color: #333;
@@ -152,9 +152,9 @@ the layout
 
 #footer {
 	clear: both;
-	background: #eee;
+	background: #01758a;
 	padding: 10px;
-	border-top: 2px solid #ddd;
+	border-top: 2px solid #01d6fc;
 	text-align: center;
 	color: #777;
 }
