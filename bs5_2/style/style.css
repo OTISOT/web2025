@@ -10,7 +10,7 @@ a little easier
 */
 body {
 	margin: 0 auto;
-	width: 800px;
+
 	padding: 0;
 	background-image: linear-gradient(to border-bottom, #0d54be77, #1958ce);			
 	font-family: Helvetica, sans-serif;
@@ -52,7 +52,7 @@ span.amp {
 #masthead {
 	margin: 0 auto ;
 	margin-top: 20px;
-	width: 800px;
+
 	color: #fff;
 }
 
@@ -87,7 +87,7 @@ the layout
 	clear: both;
 	margin: 0 auto;
 	padding: 10px;
-	width: 800px;
+
 	background: #fff;
 	border: 10px solid #5c0505;
 }
@@ -157,4 +157,8 @@ the layout
 	border-top: 2px solid #01d6fc;
 	text-align: center;
 	color: #777;
+}
+.nav-link:hover {
+  background-color: #555;
+  color: white;
 }
